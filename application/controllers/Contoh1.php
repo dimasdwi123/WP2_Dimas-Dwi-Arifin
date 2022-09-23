@@ -7,6 +7,6 @@ class Contoh1 extends CI_Controller
     echo"Nama saya Dimas Dwi Arifin
         Saya tingga di daerah Surakarta
         olah raga yang saya sukai adalah
-        Bulutangkis";
+        Sepakbola";
     }
 }
